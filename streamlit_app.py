@@ -1,1 +1,2 @@
-print("Hello World!")
+pip install streamlit
+streamlit hello
